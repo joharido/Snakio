@@ -1,9 +1,13 @@
-#include "outline.c"
+#include <stdlib.h>
+
 
 int game_over;
 int score;
 int he, we;
 int targetx, targety;
+
+int width= 60;
+int height = 10;
 
 void setup()
 {

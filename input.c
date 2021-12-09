@@ -1,4 +1,5 @@
-#include "set_up.c"
+#include <conio.h>
+#include "set_up.h"
 
 int flag;
 

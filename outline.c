@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <set_up.h>
+
 int h, w;
-int width= 60;
-int height = 10;
 
 // Function to draw a boundary
 void boundary()
