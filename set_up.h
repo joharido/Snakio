@@ -1,1 +1,1 @@
-extern int he, we;
+extern int he, we, game_over;
