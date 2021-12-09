@@ -1,1 +1,1 @@
-extern int he, we, game_over;
+extern int score, targetx, targety, height, width, he, we, game_over;
