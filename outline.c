@@ -19,11 +19,3 @@ void boundary()
         printf("\n");
     }
 }
-
-int main()
-{
-    // Function Call
-    boundary();
-  
-    return 0;
-}

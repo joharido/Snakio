@@ -3,6 +3,7 @@
 
 int flag;
 
+// Function analyzing keyboard input
 void input()
 {
     if (kbhit()) {
