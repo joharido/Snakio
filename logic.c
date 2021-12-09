@@ -1,6 +1,9 @@
+#include "unistd.h"
+
 #include "input.h"
 #include "set_up.h"
 
+// Function with all the logic
 void logic()
 {
     sleep(0.01);
